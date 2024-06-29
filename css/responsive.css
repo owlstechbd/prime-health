@@ -1,0 +1,118 @@
+@media screen and (max-width: 720px){
+    .header-left h5 {
+        font-size: 18px;
+    }
+    .header-left h3 {
+        font-size: 27px;
+    }
+    .header-left p {
+        font-size: 17px;
+    }
+    .header-right img {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .keto-title h2{
+        font-size: 24px;
+    }
+    .keto-title h2 span {
+        font-size: 24px;
+    }
+    .keto-title p {
+        font-size: 13px;
+    }
+    
+    .keto-main {
+    margin-top: 30px;
+    }
+    .higher-main h4 {
+        font-size: 24px;
+    }
+    .sky-line-main h2 {
+        font-size: 29px;
+    }
+    #metabolism {
+        display: block;
+    }
+    .metabolism-left {
+        width: 100%;
+    }
+    .metabolism-right {
+        width: 100%;
+    }
+    .left-main {
+        width: 100%;
+        padding: 0 20px;
+        margin-right: 0px; 
+    }
+    .left-main p {
+        margin-top: 20px;
+    }
+    #keto-boost {
+        padding: 50px 0;
+    }
+    #powerful {
+        padding: 50px 0;
+    }
+    .mar-top{
+        margin-top: 50px;
+    }
+    #keto {
+        padding: 50px 0;
+    }
+    .powerful-btom {
+        margin-top: 30px;
+    }
+    .breakthrough-all {
+        width: 100%;
+    }
+    .breakthrough-main {
+        padding: 15px;
+        display: block;
+    }
+    #breakthrough {
+        padding: 50px 0;
+    }
+    #guarantee-main {
+        width: 100%;
+        padding: 50px 0;
+    }
+    .references-main p{
+        font-size: 11px;
+    }
+    .faq-iteam h5 {
+        font-size: 20px;
+    }
+    .faq-iteam p {
+        font-size: 16px;
+    }
+    #health {
+        padding: 50px 0;
+    }
+    #references {
+        padding: 50px 0;
+    }
+    .references-top p{
+        font-size: 14px;
+    }
+    #testimonial {
+        padding: 50px 0;
+    }
+    .row {
+
+        margin-right:0; 
+        margin-left: 0; 
+    }
+    .guarantee-text {
+        padding: 0 0px;
+    }
+    #robert {
+        padding: 50px 0;
+    }
+    .powerful-list {
+        width: 100%;
+    }
+    #faq {
+        padding: 50px 0;
+    }
+}
